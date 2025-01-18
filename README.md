@@ -8,8 +8,8 @@ A web browser (e.g., Chrome, Firefox, Edge).
 A text editor (e.g., VS Code) if you want to edit the files.
 
 Steps:
-Clone the repository:
-
+Clone the repository: 
+https://github.com/UroobaEjaz/x-counselling-team-skills-assessment
 
 Navigate to the project folder:
 
